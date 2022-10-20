@@ -78,7 +78,7 @@
             // 
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.pictureBox1.Image = global::WindowsFormsApp6.Properties.Resources.myimage;
-            this.pictureBox1.Location = new System.Drawing.Point(12, 128);
+            this.pictureBox1.Location = new System.Drawing.Point(24, 139);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(300, 270);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
